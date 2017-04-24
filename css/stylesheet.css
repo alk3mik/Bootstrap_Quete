@@ -1,0 +1,46 @@
+/*
+	Elements properties definition
+*/
+
+html, body {
+
+	background-color: #FFFFFF;
+
+}
+	
+/*
+	IDs properties definition
+*/
+
+
+/*
+	Classes properties definition
+*/
+
+.blank-row {
+	background-color: #FFFFFF;
+	width: 200px;
+	height: 100px;
+}
+
+.green-square {
+	width: 100px;
+	height: 100px;
+	background-color: #00FF00;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+}
+
+.white-square {
+	width: 100px;
+	height: 100px;
+	background-color: #FFFFFF;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+}
+
+.green-row {
+	background-color: #00FF00;
+	width: 1100px;
+	height: 100px;
+}
